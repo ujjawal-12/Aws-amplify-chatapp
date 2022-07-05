@@ -8,6 +8,7 @@ body {
 }
 
 code {
+  /* color: rgba(207, 95, 60, 0.979); */
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
